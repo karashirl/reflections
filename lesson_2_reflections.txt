@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	If you want to make any changes that don't involve things that must be fixed/updated (i.e. bugs, official updates) like experiemental features, you can save them without making them part of the main version of your project. Branches create a separate path to save these alternate versions.
+
+How do the diagrams help you visualize the branch structure?
+
+	You can see which changes are incorporated into the master branch and which you might have to merge later if, say, you wanted to add the coins feature to the main version.
