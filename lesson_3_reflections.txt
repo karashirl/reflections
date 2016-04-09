@@ -15,3 +15,7 @@ Describe the differences between forks, clones, and branches. When would you use
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
   I could collaborate with file sharing options like Dropbox, or using a shared server. It would be easier to not have to execute all of the commands like adding files to the staging area, committing them, pushing/pulling ect. I could just save and let the person know it's been updated. However, this could get confusing very fast with lots of different versions of files. We would also have to go through the files manually to see which versions should be merged. It would be a lot harder to track changes overall.
+
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+   When you are collaborating with someone and want them to be able to review changes before they are merged with the master. The benefit of using a separate branch is that collaborators will be notified when there is a pull request so they have a chance to see your changes before merging them. The benefit of making changes to the master is that you don't have to go through so many extra steps to merge your changes. You probably want to do this when you are not collaborating with anyone.
